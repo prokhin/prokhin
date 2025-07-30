@@ -1,9 +1,6 @@
-<!-- Banner -->
-![Header](https://i.imgur.com/S9pE9dB.png)
 
-# 👋 Software Development Engineer | Gamer
-
-ex-SDET (Java) → Backend Developer  
+# 👋 Software Development Engineer 
+ex-SDET (Java) → Backend Developer
 Born in 🇷🇺, living the dream in 🇮🇩 **Bali**, surfing at Kuta Halfway Beach 🌊
 
 [![Email](https://img.shields.io/badge/Email-alexsey.prohin%40yandex.ru-blue?logo=gmail)](mailto:alexsey.prohin@yandex.ru)
