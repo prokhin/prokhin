@@ -1,23 +1,16 @@
 # 👋 Software Development Engineer
 ex-SDET (Java) → Backend Developer Java, Kotlin, Python just Vibe  
-Born in 🇷🇺, living the dream in 🇮🇩 **Bali**, surfing at Kuta Halfway Beach 🌊
 
 [![Email](https://img.shields.io/badge/Email-prohin.alexsey%40gmail.com-blue?logo=gmail)](mailto:prohin.alexsey@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@SoftwareDevelopment__Engineer-26A5E4?logo=telegram)](https://t.me/SoftwareDevelopment_Engineer)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode)](https://leetcode.com/u/user0926gs/)
 
-💡 Always up for solving **LeetCode** together — DM me!
 
 ---
 
 **PS5 ID**: halfway_canoe18
 
 [![PSN Status](https://card.psnprofiles.com/2/halfway_canoe18.png)](https://psnprofiles.com/halfway_canoe18)
-
-Co-op enthusiast: **Fortnite**, **RDR 2**, and way too many unplayed titles 🎯
-
-🏄 Sometimes I catch waves, sometimes waves catch me  
-🛹 When there’s no surf, I’m faceplanting on a skateboard instead
 
 ---
 
@@ -42,11 +35,6 @@ Co-op enthusiast: **Fortnite**, **RDR 2**, and way too many unplayed titles 🎯
 
 ---
 
-## 🤝 Let’s Code & Play
 
-💬 Ping me if you want to:
-- Solve **LeetCode** problems together 🧠
-- Work on **Java backend projects** 💻
-- Team up for **Fortnite / RDR 2 / co-op madness** 🎮
 
 📩 [Telegram](https://t.me/SoftwareDevelopment_Engineer) | [Email](mailto:prohin.alexsey@gmail.com)
