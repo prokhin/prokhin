@@ -8,26 +8,34 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 
 ---
 
-**PS5 ID**: halfway_canoe18
-
-[![PSN Status](https://card.psnprofiles.com/2/halfway_canoe18.png)](https://psnprofiles.com/halfway_canoe18)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight)
+## 🐍 GitHub Snake Animation
+<p align="center">
+  <img src="https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+  <img src="https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prokhin&theme=tokyo-night)](https://github.com/prokhin)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prokhin&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-![GitHub Snake light](https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+**PS5 ID**: halfway_canoe18
+<p align="center">
+  <a href="https://psnprofiles.com/halfway_canoe18">
+    <img src="https://card.psnprofiles.com/2/halfway_canoe18.png" alt="PSN Status" />
+  </a>
+</p>
 
 ---
 
