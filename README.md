@@ -22,13 +22,10 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 
 ---
 
-## 📊 GitHub & LeetCode Stats
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" height="200"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" width="48%" />
+</p>
 
 ---
 
