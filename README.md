@@ -38,4 +38,4 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 
 ---
 
-📩 [Telegram](https://t.me/SoftwareDevelopment_Engineer) | [Email](mailto:prohin.alexsey@gmail.com)
+
