@@ -1,5 +1,5 @@
 #  Software Development Engineer
-ex-SDET (Java) → Backend Developer Java, Kotlin, Python just Vibe
+ex-SDET (Java) → Backend Developer Java, Kotlin
 
 [![Email](https://img.shields.io/badge/Email-prohin.alexsey%40gmail.com-blue?logo=gmail)](mailto:prohin.alexsey@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@SoftwareDevelopment__Engineer-26A5E4?logo=telegram)](https://t.me/SoftwareDevelopment_Engineer)
