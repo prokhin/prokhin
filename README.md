@@ -26,8 +26,8 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 
 ---
 
-![Snake animation](https://github.com/prokhin/prokhin/blob/output/snake.svg)
-
+[GitHub Snake light](https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 
 ---
