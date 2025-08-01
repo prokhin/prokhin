@@ -29,7 +29,6 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 ## 🐍 GitHub Snake Animation
 
 ![GitHub Snake](https://github.com/prokhin/prokhin/blob/output/github-contribution-grid-snake.svg)
-## 🐍 GitHub Snake Animation
 
 ---
 
