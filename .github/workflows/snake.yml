@@ -2,38 +2,35 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # запуск каждый день
-  workflow_dispatch: # запуск вручную
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # даёт право пушить в репозиторий
+      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: prokhin
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         run: |
-          mkdir -p .deploy
-          mv dist/* .deploy/
-          cd .deploy
-          git init
-          git checkout -b output
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git fetch origin
+          git checkout --orphan output
+          git reset --hard
+          mv dist/* .
           git add .
           git commit -m "Generate snake animation"
-          git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git output
+          git push -f origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
