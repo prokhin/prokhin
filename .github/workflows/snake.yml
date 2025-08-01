@@ -2,12 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # запуск каждый день
+  workflow_dispatch: # запуск вручную
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # даёт право пушить в репозиторий
 
     steps:
       - name: Checkout
@@ -23,14 +25,15 @@ jobs:
 
       - name: Push to output branch
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git switch --orphan output
-          git rm -rf .
-          mv dist/* .
+          mkdir -p .deploy
+          mv dist/* .deploy/
+          cd .deploy
+          git init
+          git checkout -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Generate snake animation"
-          git push -f origin output
+          git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
