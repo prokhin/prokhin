@@ -1,10 +1,10 @@
-# 👋 Software Development Engineer
-ex-SDET (Java) → Backend Developer Java, Kotlin, Python just Vibe  
+#  Software Development Engineer
+ex-SDET (Java) → Backend Developer Java, Kotlin, Python just Vibe
 
 [![Email](https://img.shields.io/badge/Email-prohin.alexsey%40gmail.com-blue?logo=gmail)](mailto:prohin.alexsey@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@SoftwareDevelopment__Engineer-26A5E4?logo=telegram)](https://t.me/SoftwareDevelopment_Engineer)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode)](https://leetcode.com/u/user0926gs/)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest)
 
 ---
 
@@ -14,18 +14,9 @@ ex-SDET (Java) → Backend Developer Java, Kotlin, Python just Vibe
 
 ---
 
-## 🛠️ Tech Arsenal
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=spring&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-Challenges-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prokhin&layout=compact&theme=tokyonight)
 
 ---
 
@@ -35,6 +26,10 @@ ex-SDET (Java) → Backend Developer Java, Kotlin, Python just Vibe
 
 ---
 
+## 🐍 GitHub Snake Animation
 
+![GitHub Snake](https://github.com/prokhin/prokhin/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 📩 [Telegram](https://t.me/SoftwareDevelopment_Engineer) | [Email](mailto:prohin.alexsey@gmail.com)
