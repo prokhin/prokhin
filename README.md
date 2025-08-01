@@ -4,7 +4,6 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 [![Email](https://img.shields.io/badge/Email-prohin.alexsey%40gmail.com-blue?logo=gmail)](mailto:prohin.alexsey@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@SoftwareDevelopment__Engineer-26A5E4?logo=telegram)](https://t.me/SoftwareDevelopment_Engineer)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode)](https://leetcode.com/u/user0926gs/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest)
 
 ---
 
@@ -23,10 +22,13 @@ ex-SDET (Java) → Backend Developer Java, Kotlin
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 📊 GitHub & LeetCode Stats
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" height="200"/>
+
+</div>
 
 ---
 
