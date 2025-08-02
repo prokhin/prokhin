@@ -8,8 +8,15 @@ ex-SDET (Java) → Backend Developer (Java, Kotlin)
 ---
 
 <p align="center">
-  <img src="https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />
-  <img src="https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+
+[//]: # (  <img src="https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />)
+
+[//]: # (  <img src="https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prokhin/prokhin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prokhin/prokhin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prokhin/prokhin/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ---
