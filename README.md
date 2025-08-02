@@ -8,9 +8,13 @@ ex-SDET (Java) → Backend Developer (Java, Kotlin)
 ---
 
 <p align="center">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prokhin/prokhin/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prokhin/prokhin/output/snake-light.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/prokhin/prokhin/output/snake-light.svg">
 
 [//]: # (  <img src="https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />)
-  <img src="https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+
+[//]: # (  <img src="https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />)
 </p>
 
 ---
