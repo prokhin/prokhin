@@ -8,7 +8,8 @@ ex-SDET (Java) → Backend Developer (Java, Kotlin)
 ---
 
 <p align="center">
-  <img src="https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+
+[//]: # (  <img src="https://github.com/prokhin/prokhin/blob/output/snake-light.svg#gh-light-mode-only" alt="GitHub Snake Light" />)
   <img src="https://github.com/prokhin/prokhin/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
 </p>
 
