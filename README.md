@@ -42,7 +42,7 @@
 ---
 
 **PS5 ID**: halfway_canoe18
-<p style="text-align: center;">>
+<p style="text-align: center;">
   <a href="https://psnprofiles.com/halfway_canoe18">
     <img src="https://card.psnprofiles.com/2/halfway_canoe18.png" alt="PSN Status" />
   </a>
