@@ -29,6 +29,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=default">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=default" width="48%">
   </picture>
+  <br>
   <picture>
     <!-- Тёмная тема -->
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest">
@@ -37,6 +38,7 @@
     <!-- Запасной вариант -->
     <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/user0926gs?theme=light&font=Baloo%202&ext=contest" width="48%">
   </picture>
+  <br>
   <picture>
     <img src="https://www.codewars.com/users/Aleksei%20Prokhin/badges/large" alt="Codewars" width="48%"/>
   </picture>
