@@ -40,7 +40,9 @@
   <tr>
     <td>
       <picture>
-        <img src="https://www.codewars.com/users/Aleksei%20Prokhin/badges/large" alt="Codewars"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.r2v.ch/codewars?user=Aleksei%20Prokhin&theme=dark&top_languages=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.r2v.ch/codewars?user=Aleksei%20Prokhin&theme=light&top_languages=true">
+        <img src="https://github.r2v.ch/codewars?user=Aleksei%20Prokhin&theme=light&top_languages=true" alt="Codewars"/>
       </picture>
     </td>
     <td>
