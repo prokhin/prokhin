@@ -1,6 +1,7 @@
 [![Email](https://img.shields.io/badge/Email-prohin.alexsey%40gmail.com-blue?logo=gmail)](mailto:prohin.alexsey@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@SoftwareDevelopment__Engineer-26A5E4?logo=telegram)](https://t.me/SoftwareDevelopment_Engineer)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode)](https://leetcode.com/u/user0926gs/)
+[![Codewars](https://img.shields.io/badge/Codewars-Profile-B1361E?logo=codewars)](https://www.codewars.com/users/Aleksei%20Prokhin)
 
 
 <p style="text-align: center;">
@@ -28,7 +29,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=default">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prokhin&show_icons=true&theme=default" width="48%">
   </picture>
-
   <picture>
     <!-- Тёмная тема -->
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/user0926gs?theme=dark&font=Baloo%202&ext=contest">
@@ -36,6 +36,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/user0926gs?theme=light&font=Baloo%202&ext=contest">
     <!-- Запасной вариант -->
     <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/user0926gs?theme=light&font=Baloo%202&ext=contest" width="48%">
+  </picture>
+  <picture>
+    <img src="https://www.codewars.com/users/Aleksei%20Prokhin/badges/large" alt="Codewars" width="48%"/>
   </picture>
 </p>
 
